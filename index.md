@@ -8,7 +8,7 @@ This is the website for the seminar [Tokenization for Large Language Models](htt
 Instructor: [Prof. Dr. Valentin Hofmann](https://www.cis.uni-muenchen.de/personen/professoren/vhofmann/index.html)\
 Contact: firstname.lastname@lmu.de
 
-- Schedule
-- Speakers
-- Materials
-- Contact
+| Date        |   Topic        | Slides |
+|:-------------|:------------------|:------|
+| 17.04.2026           | Introduction | Link  |
+| 24.04.2026 | Text encoding, BPE   | Link  |
