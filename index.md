@@ -12,5 +12,5 @@ Contact: firstname.lastname@lmu.de
 |:-------------|:------------------|:------|
 | 17.04.2026           | Introduction, LLM recap |   |
 | 24.04.2026 | Text encoding, BPE   |   |
-| 08.05.2026 |  Unigram, presentation of topics  |   |
+| 08.05.2026 |  Unigram, topic presentation  |   |
 
