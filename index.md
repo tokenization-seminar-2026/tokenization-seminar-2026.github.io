@@ -10,5 +10,7 @@ Contact: firstname.lastname@lmu.de
 
 | Date        |   Topic        | Slides |
 |:-------------|:------------------|:------|
-| 17.04.2026           | Introduction, LLM recap | Link  |
-| 24.04.2026 | Text encoding, BPE   | Link  |
+| 17.04.2026           | Introduction, LLM recap |   |
+| 24.04.2026 | Text encoding, BPE   |   |
+| 08.05.2026 |    |   |
+
