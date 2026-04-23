@@ -1,3 +1,4 @@
 title: Tokenization for Large Language Models 2026
 description: Schedule and materials for the seminar
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/minimal@v0.2.0
+# theme: jekyll-theme-cayman
