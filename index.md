@@ -15,7 +15,6 @@ Contact: firstname.lastname@lmu.de
 | 08.05.2026 |  Unigram, topics presentation  |   |
 
 
-* * *
 
 
 ## Topics for presentations and term papers
