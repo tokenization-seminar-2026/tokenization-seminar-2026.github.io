@@ -17,6 +17,11 @@ Contact: firstname.lastname@lmu.de
 
 ### Topics for presentations and term papers
 
+Presentations should be around 30 minutes in length, which will be followed by 15 minutes of Q&A. Presentations will be given during the block seminar on 20.07.2026 and 21.07.2026.
+
+Term papers should be around 25.000 characters in length and be submitted via e-mail by 31.08.2026.
+
+
 | Topic        |   Example paper        | Student |
 |:-------------|:------------------|:------|
 |   Multilingual unfairness        | [Ahia et al. (2023)](https://aclanthology.org/2023.emnlp-main.614/) |   |
