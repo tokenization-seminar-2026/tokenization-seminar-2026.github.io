@@ -14,3 +14,19 @@ Contact: firstname.lastname@lmu.de
 | 24.04.2026 | Character encoding, BPE   |  [Link](slides/slides_20260424.pdf) |
 | 08.05.2026 |  Unigram, topics presentation  |   |
 
+
+### Topics for presentations and term papers
+
+
+| Topic        |   Example paper        | Student |
+|:-------------|:------------------|:------|
+|  Tokenization and morphology         | [Hofmann et al. (2021)](https://aclanthology.org/2021.acl-long.279/) |   |
+|           | []() |   |
+|           | []() |   |
+|           | []() |   |
+|           | []() |   |
+|           | []() |   |
+|           | []() |   |
+|           | []() |   |
+|           | []() |   |
+
