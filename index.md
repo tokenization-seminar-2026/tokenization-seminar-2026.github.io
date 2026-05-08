@@ -17,6 +17,17 @@ Contact: firstname.lastname@lmu.de
 
 ### Topics for presentations and term papers
 
-
+| Topic        |   Example paper        | Student |
+|:-------------|:------------------|:------|
+|   Multilingual unfairness        | [Ahia et al. (2023)](https://aclanthology.org/2023.emnlp-main.614/) |   |
+|  Tokenization and morphology         | [Hofmann et al. (2021)](https://aclanthology.org/2021.acl-long.279/) |   |
+|   Glitch tokens        | [Land and Bartolo (2024)](https://aclanthology.org/2024.emnlp-main.649/) |   |
+|   Tokenization and interpretability        | [Kaplan et al. (2025)](https://openreview.net/forum?id=328vch6tRs) |   |
+|   Tokenizer evaluation        | [Zouhar et al. (2023)](https://aclanthology.org/2023.acl-long.284/) |   |
+|  Tokenizer transfer         | [Minixhofer et al. (2024)](https://openreview.net/forum?id=RwBObRsIzC) |   |
+|   Inference-time modifications        | [Provilkov et al. (2020)](https://aclanthology.org/2020.acl-main.170/) |   |
+|   Non-canonical tokenizations        | [Zheng et al. (2025)](https://openreview.net/forum?id=WrYWolqKh3) |   |
+|   Pixel tokenization        | [Salesky et al. (2023)](https://aclanthology.org/2023.emnlp-main.854/) |   |
+|   Latent tokenization        | [Pagnoni et al. (2025)](https://aclanthology.org/2025.acl-long.453/) |   |
 
 
