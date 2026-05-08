@@ -20,8 +20,8 @@ Contact: firstname.lastname@lmu.de
 
 | Topic        |   Example paper        | Student |
 |:-------------|:------------------|:------|
-|  Tokenization and morphology         | [Hofmann et al. (2021)](https://aclanthology.org/2021.acl-long.279/) |   |
 |   Multilingual unfairness        | [Ahia et al. (2023)](https://aclanthology.org/2023.emnlp-main.614/) |   |
+|  Tokenization and morphology         | [Hofmann et al. (2021)](https://aclanthology.org/2021.acl-long.279/) |   |
 |   Glitch tokens        | [Land and Bartolo (2024)](https://aclanthology.org/2024.emnlp-main.649/) |   |
 |   Tokenization and interpretability        | [Kaplan et al. (2025)](https://openreview.net/forum?id=328vch6tRs) |   |
 |   Tokenizer evaluation        | [Zouhar et al. (2023)](https://aclanthology.org/2023.acl-long.284/) |   |
