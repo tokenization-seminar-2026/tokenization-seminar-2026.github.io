@@ -15,6 +15,9 @@ Contact: firstname.lastname@lmu.de
 | 08.05.2026 |  Unigram, topics presentation  |   |
 
 
+* * *
+
+
 ## Topics for presentations and term papers
 
 Presentations should be around 30 minutes in length, which will be followed by 15 minutes of Q&A. Presentations will be given during the block seminar on 20.07.2026 and 21.07.2026.
