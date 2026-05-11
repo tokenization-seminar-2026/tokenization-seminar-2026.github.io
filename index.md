@@ -12,7 +12,7 @@ Contact: firstname.lastname@lmu.de
 |:-------------|:------------------|:------|
 | 17.04.2026           | Introduction, LLM recap |  [Link](slides/slides_20260417.pdf) |
 | 24.04.2026 | Character encoding, BPE   |  [Link](slides/slides_20260424.pdf) |
-| 08.05.2026 |  Unigram, topics presentation  |   |
+| 08.05.2026 |  Unigram, topics presentation  |  [Link](slides/slides_20260508.pdf) |
 
 
 
@@ -28,7 +28,7 @@ Feel free to propose your own topic!
 
 | Topic        |   Example paper        | Student |
 |:-------------|:------------------|:------|
-|   Multilingual unfairness        | [Ahia et al. (2023)](https://aclanthology.org/2023.emnlp-main.614/) |   |
+|   Multilingual unfairness        | [Ahia et al. (2023)](https://aclanthology.org/2023.emnlp-main.614/) | YX  |
 |  Tokenization and morphology         | [Hofmann et al. (2021)](https://aclanthology.org/2021.acl-long.279/) |   |
 |   Glitch tokens        | [Land and Bartolo (2024)](https://aclanthology.org/2024.emnlp-main.649/) |   |
 |   Tokenization and interpretability        | [Kaplan et al. (2025)](https://openreview.net/forum?id=328vch6tRs) |   |
