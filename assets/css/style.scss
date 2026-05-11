@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-section a:hover,
-section a:focus {
+a:hover,
+a:focus {
   font-weight: inherit;
 }
