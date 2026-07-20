@@ -15,7 +15,7 @@ Contact: firstname.lastname@lmu.de
 | 08.05.2026 |  Unigram, topics presentation  |  [Link](slides/slides_20260508.pdf) |
 
 
-
+You can find the practical on training a tokenizer [here](https://colab.research.google.com/drive/1eWNTe192L7NxvD97qPBbck_dZnwAKg4X?usp=sharing).
 
 ## Topics for presentations and term papers
 
